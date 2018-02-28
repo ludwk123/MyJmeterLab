@@ -1,6 +1,6 @@
 # Getting Started with Apache JMeter
 
-## Lab Guide
+## [Lab Guide](https://academy.blazemeter.com/lessons/course-1-lab-guide/)
 
 ### Lab 1: Installing and Configuring
 
